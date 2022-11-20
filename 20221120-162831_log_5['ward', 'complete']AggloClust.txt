@@ -1,0 +1,9 @@
+Silhouette score :0.4905429163229505 dengan n=2 tipe linkage= ward
+Silhouette score :0.45451508273041097 dengan n=3 tipe linkage= ward
+Silhouette score :0.4519796429690911 dengan n=4 tipe linkage= ward
+Silhouette score :0.45656717918004164 dengan n=5 tipe linkage= ward
+Silhouette score :0.6280599696415775 dengan n=2 tipe linkage= complete
+Silhouette score :0.4843718575851432 dengan n=3 tipe linkage= complete
+Silhouette score :0.4805676832893757 dengan n=4 tipe linkage= complete
+Silhouette score :0.430761413120956 dengan n=5 tipe linkage= complete
+Best Model didapatkan dari n=2, dengan score=0.6280599696415775 tipe linkage= complete

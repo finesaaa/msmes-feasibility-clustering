@@ -1,0 +1,9 @@
+Silhouette score :0.49760734513547256 dengan n=2 tipe init= k-means++
+Silhouette score :0.4589885979350643 dengan n=3 tipe init= k-means++
+Silhouette score :0.4492129529955155 dengan n=4 tipe init= k-means++
+Silhouette score :0.4590893326007179 dengan n=5 tipe init= k-means++
+Silhouette score :0.49760734513547256 dengan n=2 tipe init= random
+Silhouette score :0.4589885979350643 dengan n=3 tipe init= random
+Silhouette score :0.4492129529955155 dengan n=4 tipe init= random
+Silhouette score :0.45910635649136156 dengan n=5 tipe init= random
+Best Model didapatkan dari n=2, dengan init=k-means++, dengan score=0.49760734513547256
